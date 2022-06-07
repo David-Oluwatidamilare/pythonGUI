@@ -1,0 +1,7 @@
+Hello, this is how to use the programs.
+
+The .py file named Keele-1 is question 1. You'll need to have the python 3 idle to run it. After that, you’ll pip install typer.  Since the program is not supposed to have a gui, I decided to use the command line for it. All you need to do is navigate to the folder where the programs are saved using the command line, and call the Keele-1 program. 
+
+For the second one (GUI), you’ll have to edit with the python IDLE and run. It’s that simple. Just make sure you do not take any file out of the folder, except this particular one.
+
+Thank you.
